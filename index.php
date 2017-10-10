@@ -8,8 +8,8 @@
   </head>
   <body>
   	
-  <h1> Titulo de Ximo </h1>
+  <h1> Titulo de caca </h1>
 
   </body>
-  <script type="text/javascript" src="ximo.js"></script>
+  <script type="text/javascript" src="pepe.js"></script>
 </html>
