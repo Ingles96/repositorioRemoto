@@ -4,6 +4,7 @@
     <link rel="stylesheet" href="ximet.css">
     <meta charset="utf-8">
     <title>Josep Ingles2</title>
+>>>>>>> b4028c7da4bxzjchsdbhj
   </head>
   <body>
 
